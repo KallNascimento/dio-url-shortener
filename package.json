@@ -1,0 +1,25 @@
+{
+  "name": "url-shortener",
+  "version": "1.0.0",
+  "description": "Encurtador de URL criado para plataforma DIO",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KallNascimento/dio-url-shortener.git"
+  },
+  "keywords": [
+    "nodejs",
+    "mongodb",
+    "typscript",
+    "nosql"
+  ],
+  "author": "Kauê Nascimento",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KallNascimento/dio-url-shortener/issues"
+  },
+  "homepage": "https://github.com/KallNascimento/dio-url-shortener#readme"
+}
